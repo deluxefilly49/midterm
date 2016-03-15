@@ -19,6 +19,7 @@
     width:350px;
     padding:10px; 
     float: left;
+    padding-bottom: 10px;
 }
 #footer {
     background-color:black;
