@@ -4,7 +4,7 @@
     color: red;
     font-size: 70px;
     text-align:center;
-    padding:10px;
+    padding:5px;
 }
 
 #nav {
@@ -18,9 +18,7 @@
 #section {
     width:350px;
     padding:10px; 
-    text-align: center;
-    float: right;
-    margin-right: 100px;
+    float: left;
 }
 #footer {
     background-color:black;
