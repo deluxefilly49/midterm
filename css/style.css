@@ -1,0 +1,40 @@
+#header {
+	background: url('https://secure.static.tumblr.com/acdc1c4256974d86ea9879bd7be2c2ff/if3yonf/pdtnikz5h/tumblr_static_tumblr_static_dfdzy57v3q0ck84gokwgkk4go_640.jpg');
+    background-color:black;
+    color: red;
+    font-size: 70px;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:10px;     
+}
+</style>
+
+
+
+
+
+
+
+
+
+
